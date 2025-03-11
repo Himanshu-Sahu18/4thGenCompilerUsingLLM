@@ -4,7 +4,7 @@ HingLang is an innovative 4th-generation compiler that blends the deterministic 
 ## **HingLang Syntax Examples**  
 
 ### **Variable Assignment**
-```hinglish
+
 lo A = 10  # Assigns value 10 to A
 
 Conditional Statements:
@@ -27,7 +27,7 @@ fun add {
 }
 endfun
 
-Installation and Setup
+Installation and Setup:
 Prerequisites
 Python 3.8+
 pip
